@@ -10,8 +10,8 @@ gra//Librerías
 DHT dht(DHTPIN, DHTTYPE, 27);
 
 
-String ssid = "Claro_MARIALUZURI";
-String password = "1103048649";
+String ssid = "Red";
+String password = "Password";
 WiFiServer server(80); //Puerto 80
 
 
